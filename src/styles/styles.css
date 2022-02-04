@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fuenteTitulo{
+  @apply font-sans font-bold text-4xl text-left text-zinc-900 px-2 py-1;
+}
+
+.fuenteBase{
+  @apply font-sans text-left text-zinc-800 px-2 py-1;
+}
