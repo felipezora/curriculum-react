@@ -36,7 +36,7 @@ function App() {
           text="CCNA Routing and Switching: Introducción a redes (Cisco Networking Academy). Taller de Escritores de La Escuelita Viajera, Versión 12-2017. Concurso de Debate Crítico organizado por la Universidad EAFIT (año 2017)."
         />
         <TextCard
-          title="Iidiomas"
+          title="Idiomas"
           text="Manejo buenas habilidades comunicativas con el lenguaje de Inglés, con un dominio del 60% en lectura, escritura y escucha."
         />
         <TextCard
