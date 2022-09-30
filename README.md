@@ -1,4 +1,4 @@
-# (NOT UPDATED) React Application of my Curriculum Vitae
+# (WITHOUT UPDATING) React Application of my Curriculum Vitae
 
 # Getting Started with Create React App
 
